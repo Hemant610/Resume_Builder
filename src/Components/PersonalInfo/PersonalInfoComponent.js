@@ -206,23 +206,6 @@ const PersonalInfoComponent = (props) => {
             error={errors.firstName ? true : false}
             errorMessage={errors.firstName ? errors.firstName.message : null}
           />
-          <InputComponent
-          title={"Middle Name"}
-          type={"text"}
-          name={"middleName"}
-          register={register}
-          multiline={false}
-          value={props.personalInfo.middleName}
-          setValue={(value)=>
-          props.onAddPersonalInfo({
-            ...props.personalInfo,
-            middleName: value,
-          })
-
-          }
-          error={errors.middleName ? true : false}
-          errorMessage={errors.middleName ? errors.middleName.message : null}
-          />
           
           <InputComponent
             title={"Last Name"}
