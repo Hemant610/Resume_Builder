@@ -138,11 +138,6 @@
 * Saved resumes can be deleted as well as modified by the user.
 
 ## Used in this project:
-* React-Router-Dom
-* Material UI
-* React-Redux
-* Store
-* React-Avatar-edit
 * Vanilla CSS
 * JSX
 * Uniq ID
@@ -151,6 +146,11 @@
 * Redux connect method
 * Images
 * Raw data
+* React-Router-Dom
+* Material UI
+* React-Redux
+* Store
+* React-Avatar-edit
 
 ## Pages
 * Home (Resume Templates) <br/> -Choose one from the available templates &amp; <br/> -Navigated to details filling page 
