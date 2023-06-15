@@ -157,8 +157,11 @@
 * My Resumes
 * About us
 
-</hr>
+## Live Link
+https://resumebuild610.netlify.app/
 
+## Demo Video
+https://youtu.be/l7a0NsDix0k
 
 
 
